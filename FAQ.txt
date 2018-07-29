@@ -1,0 +1,16 @@
+
+## FAQ 
+**I don't know R; where's the Python workshop?**  
+Don't get lost in translation - the Python workshop is available here!
+
+**How much do I need to know to participate in these workshops?**  
+The workshops for Data Science programming presume basic knowledge of computer logic, program structure, and statistics.
+
+**Help! What do I do if I don't know how to code?**  
+Fear not! We have a workshop for Coding Fundamentals.
+
+**What's a standard deviation?**  
+Fell asleep in your stats class? Never taken one before? Don't worry, we have an Introduction to Stats workshop!
+
+**Spot a typo? Link not working?**  
+Report it to michal.fishkin@stemfellowship.org.
